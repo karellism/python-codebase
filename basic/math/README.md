@@ -38,13 +38,13 @@ filename: README.md
   <td><a href="returnsquareroot.py">returnsquareroot.py</a></td>
   <td>Available</td>
 </tr>
-  tr>
+  <tr>
   <td>#0134</td>
   <td>Round number upwards and downwards to nearest int</td>
   <td><a href="roundupanddowntonearestint.py">roundupanddowntonearestint.py</a></td>
   <td>Available</td>
 </tr>
-  tr>
+  <tr>
   <td>#0135</td>
   <td>Return value of PI</td>
   <td><a href="returnvalueofpi.py">returnvalueofpi.py</a></td>
