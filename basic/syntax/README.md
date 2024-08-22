@@ -33,6 +33,3 @@ filename: README.md
   <td>Available</td>
 </tr>
 </table>
-
-
-[#0001] [helloworld.py](helloworld.py)
