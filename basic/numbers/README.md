@@ -1,6 +1,6 @@
 ## Python Codebase
 
-current director: python-codebase/basic/numbers
+current directory: python-codebase/basic/numbers  
 filename: README.md
 
 ### Basic Python Examples
