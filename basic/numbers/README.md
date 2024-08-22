@@ -15,21 +15,33 @@ filename: README.md
     <th>Status</th>
   </tr>
 <tr>
-  <td>#0001</td>
-  <td>Hello World</td>
-  <td><a href="helloworld.py">helloworld.py</a></td>
+  <td>#0007</td>
+  <td>Verify type of object</td>
+  <td><a href="verifytypeofobject.py">verifytypeofobject.py</a></td>
   <td>Available</td>
 </tr>
   <tr>
-  <td>#0002</td>
-  <td>Comment</td>
-  <td><a href="comment.py">comment.py</a></td>
+  <td>#0008</td>
+  <td>Create integers</td>
+  <td><a href="createintegers.py">createintegers.py</a></td>
   <td>Available</td>
 </tr>
   <tr>
-  <td>#0003</td>
-  <td>Docstring</td>
-  <td><a href="docstring.py">docstring.py</a></td>
+  <td>#0009</td>
+  <td>Create floating point numbers</td>
+  <td><a href="createfloatingpointnumbers.py">createfloatingpointnumbers.py</a></td>
+  <td>Available</td>
+</tr>
+  <tr>
+  <td>#0010</td>
+  <td>Create scientific numbers</td>
+  <td><a href="createscientificnumbers.py">createscientificnumbers.py</a></td>
+  <td>Available</td>
+</tr>
+  <tr>
+  <td>#0011</td>
+  <td>Create complex numbers</td>
+  <td><a href="createcomplexnumbers.py">createcomplexnumbers.py</a></td>
   <td>Available</td>
 </tr>
 </table>
