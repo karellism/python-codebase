@@ -1,6 +1,6 @@
 # Python Codebase
 ----
-current directory: /python-codebase 
+current directory: /python-codebase  
 file: README.md
 
 ### Python Examples
