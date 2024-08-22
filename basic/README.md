@@ -4,65 +4,63 @@ current director: python-codebase/basic
 filename: READMEmd
 
 Basic Python Examples
-
+----
 Subdirectories:
 
---> Syntax (python-codebase/basic/syntax)
+--> Syntax [python-codebase/basic/syntax]
 
---> Variables (python-codebase/basic/)
+--> Variables [python-codebase/basic/variables]
 
---> Numbers (python-codebase/basic/)
+--> Numbers [python-codebase/basic/numbers]
 
---> Casting (python-codebase/basic/)
+--> Casting [python-codebase/basic/casting]
 
---> Strings (python-codebase/basic/)
+--> Strings [python-codebase/basic/strings]
 
---> Operators ()
+--> Operators [python-codebase/basic/operators]
 
---> Lists ()
+--> Lists [python-codebase/basic/lists]
 
---> Tuples ()
+--> Tuples [python-codebase/basic/tuples]
 
---> Sets ()
+--> Sets [python-codebase/basic/sets]
 
---> Dictionaries ()
+--> Dictionaries [python-codebase/basic/dictionaries]
 
---> If... Else ()
+--> If... Else [python-codebase/basic/if-else]
 
---> While Loop ()
+--> While Loop [python-codebase/basic/while-loop]
 
---> For Loop ()
+--> For Loop [python-codebase/basic/for-loop]
 
---> Functions ()
+--> Functions [python-codebase/basic/functions]
 
---> Lambda ()
+--> Lambda [python-codebase/basic/lambda]
 
---> Arrays ()
+--> Arrays [python-codebase/basic/arrays]
 
---> Classes & Objects ()
+--> Classes & Objects [python-codebase/basic/classes-and-objects]
 
---> Iterators ()
+--> Iterators [python-codebase/basic/iterators]
 
---> Modules ()
+--> Modules [python-codebase/basic/modules]
 
---> Dates ()
+--> Dates [python-codebase/basic/dates]
 
---> Math ()
+--> Math [python-codebase/basic/math]
 
---> JSON ()
+--> JSON [python-codebase/basic/json]
 
---> RegEx ()
+--> RegEx [python-codebase/basic/regex]
 
---> PIP ()
+--> PIP [python-codebase/basic/pip]
 
---> Try Except ()
+--> Try Except [python-codebase/basic/try-exceot]
 
---> File Handeling ()
+--> File Handling [python-codebase/basic/file-handling]
 
---> MySQL ()
+--> MySQL [python-codebase/basic/mysql]
 
---> MongoDB ()
+--> MongoDB [python-codebase/basic/mongodb]
 
 ----
-
---
