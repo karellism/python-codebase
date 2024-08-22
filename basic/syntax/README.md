@@ -17,19 +17,19 @@ filename: README.md
 <tr>
   <td>#0001</td>
   <td>Hello World</td>
-  <td>[helloworld.py](helloworld.py)</td>
+  <td><a href="helloworld.py">helloworld.py</a></td>
   <td>Available</td>
 </tr>
   <tr>
   <td>#0002</td>
   <td>Comment</td>
-  <td>[comment.py](comment.py)</td>
+  <td><a href="comment.py">comment.py</a></td>
   <td>Available</td>
 </tr>
   <tr>
   <td>#0003</td>
   <td>Docstring</td>
-  <td>[docstring.py](docstring.py)</td>
+  <td><a href="docstring.py">docstring.py</a></td>
   <td>Available</td>
 </tr>
 </table>
