@@ -7,9 +7,9 @@ filename: README.md
 ----
 Subdirectories:
 
---> [Syntax](python-codebase/basic/syntax)
+--> [Syntax](/syntax)
 
---> [Variables](python-codebase/basic/variables)
+--> [Variables](/variables)
 
 --> [Numbers](python-codebase/basic/numbers)
 
