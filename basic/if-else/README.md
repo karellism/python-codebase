@@ -1,7 +1,7 @@
 ## Python Codebase
 
-current director: python-codebase/basic/if-else
-filename: README.md
+current director: python-codebase/basic/if-else  
+filename: README.md  
 
 ### Basic Python Examples
 ----
