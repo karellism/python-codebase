@@ -1,66 +1,66 @@
 ## Python Codebase
 
 current director: python-codebase/basic
-filename: READMEmd
+filename: README.md
 
-Basic Python Examples
+### Basic Python Examples
 ----
 Subdirectories:
 
---> Syntax [python-codebase/basic/syntax]
+--> [Syntax](python-codebase/basic/syntax)
 
---> Variables [python-codebase/basic/variables]
+--> [Variables](python-codebase/basic/variables)
 
---> Numbers [python-codebase/basic/numbers]
+--> [Numbers](python-codebase/basic/numbers)
 
---> Casting [python-codebase/basic/casting]
+--> [Casting](python-codebase/basic/casting)
 
---> Strings [python-codebase/basic/strings]
+--> [Strings](python-codebase/basic/strings)
 
---> Operators [python-codebase/basic/operators]
+--> [Operators](python-codebase/basic/operators)
 
---> Lists [python-codebase/basic/lists]
+--> [Lists](python-codebase/basic/lists)
 
---> Tuples [python-codebase/basic/tuples]
+--> [Tuples](python-codebase/basic/tuples)
 
---> Sets [python-codebase/basic/sets]
+--> [Sets](python-codebase/basic/sets)
 
---> Dictionaries [python-codebase/basic/dictionaries]
+--> [Dictionaries](python-codebase/basic/dictionaries)
 
---> If... Else [python-codebase/basic/if-else]
+--> [If... Else](python-codebase/basic/if-else)
 
---> While Loop [python-codebase/basic/while-loop]
+--> [While Loop](python-codebase/basic/while-loop)
 
---> For Loop [python-codebase/basic/for-loop]
+--> [For Loop](python-codebase/basic/for-loop)
 
---> Functions [python-codebase/basic/functions]
+--> [Functions](python-codebase/basic/functions)
 
---> Lambda [python-codebase/basic/lambda]
+--> [Lambda](python-codebase/basic/lambda)
 
---> Arrays [python-codebase/basic/arrays]
+--> [Arrays](python-codebase/basic/arrays)
 
---> Classes & Objects [python-codebase/basic/classes-and-objects]
+--> [Classes & Objects](python-codebase/basic/classes-and-objects)
 
---> Iterators [python-codebase/basic/iterators]
+--> [Iterators](python-codebase/basic/iterators)
 
---> Modules [python-codebase/basic/modules]
+--> [Modules](python-codebase/basic/modules)
 
---> Dates [python-codebase/basic/dates]
+--> [Dates](python-codebase/basic/dates)
 
---> Math [python-codebase/basic/math]
+--> [Math](python-codebase/basic/math)
 
---> JSON [python-codebase/basic/json]
+--> [JSON](python-codebase/basic/json)
 
---> RegEx [python-codebase/basic/regex]
+--> [RegEx](python-codebase/basic/regex)
 
---> PIP [python-codebase/basic/pip]
+--> [PIP](python-codebase/basic/pip)
 
---> Try Except [python-codebase/basic/try-exceot]
+--> [Try Except](python-codebase/basic/try-except)
 
---> File Handling [python-codebase/basic/file-handling]
+--> [File Handling](python-codebase/basic/file-handling)
 
---> MySQL [python-codebase/basic/mysql]
+--> [MySQL](python-codebase/basic/mysql)
 
---> MongoDB [python-codebase/basic/mongodb]
+--> [MongoDB](python-codebase/basic/mongodb)
 
 ----
