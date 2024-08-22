@@ -1,15 +1,15 @@
 ## Python Codebase
 
-current director: python-codebase/basic
+current director: python-codebase/basic  
 filename: README.md
 
 ### Basic Python Examples
 ----
 Subdirectories:
 
---> [Syntax](/syntax)
+--> [Syntax](syntax)
 
---> [Variables](/variables)
+--> [Variables](variables)
 
 --> [Numbers](python-codebase/basic/numbers)
 
