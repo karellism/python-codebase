@@ -33,7 +33,7 @@ filename: README.md
   <td>Available</td>
 </tr>
   <tr>
-  <td>#0146/td>
+  <td>#0146</td>
   <td>Using split() function</td>
   <td><a href="usingsplitfunction.py">usingsplitfunction.py</a></td>
   <td>Available</td>
