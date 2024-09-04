@@ -34,7 +34,34 @@ Subdirectories:
   <td>Available</td>
 </tr>
 </table>  
+
 --> [Variables](variables)  
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+<tr>
+  <td>#0004</td>
+  <td>Hello World</td>
+  <td><a href="helloworld.py">helloworld.py</a></td>
+  <td>Available</td>
+</tr>
+  <tr>
+  <td>#0005</td>
+  <td>Comment</td>
+  <td><a href="comment.py">comment.py</a></td>
+  <td>Available</td>
+</tr>
+  <tr>
+  <td>#0006</td>
+  <td>Docstring</td>
+  <td><a href="docstring.py">docstring.py</a></td>
+  <td>Available</td>
+</tr>
+</table>
 --> [Numbers](numbers)  
 --> [Casting](casting)  
 --> [Strings](strings)  
