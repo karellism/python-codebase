@@ -33,7 +33,7 @@ Subdirectories:
   <td><a href="docstring.py">docstring.py</a></td>
   <td>Available</td>
 </tr>
-</table>
+</table>  
 --> [Variables](variables)  
 --> [Numbers](numbers)  
 --> [Casting](casting)  
