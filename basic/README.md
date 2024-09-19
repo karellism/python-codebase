@@ -18,19 +18,19 @@ Subdirectories:
 <tr>
   <td>#0001</td>
   <td>Hello World</td>
-  <td><a href="helloworld.py">helloworld.py</a></td>
+  <td><a href="syntax/helloworld.py">helloworld.py</a></td>
   <td>Available</td>
 </tr>
   <tr>
   <td>#0002</td>
   <td>Comment</td>
-  <td><a href="comment.py">comment.py</a></td>
+  <td><a href="syntax/comment.py">comment.py</a></td>
   <td>Available</td>
 </tr>
   <tr>
   <td>#0003</td>
   <td>Docstring</td>
-  <td><a href="docstring.py">docstring.py</a></td>
+  <td><a href="syntax/docstring.py">docstring.py</a></td>
   <td>Available</td>
 </tr>
 </table>  
@@ -46,7 +46,7 @@ Subdirectories:
 <tr>
   <td>#0004</td>
   <td>Hello World</td>
-  <td><a href="helloworld.py">helloworld.py</a></td>
+  <td><a href="variables/helloworld.py">helloworld.py</a></td>
   <td>Available</td>
 </tr>
   <tr>
