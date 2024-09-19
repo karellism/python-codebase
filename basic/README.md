@@ -62,11 +62,24 @@ Subdirectories:
   <td>Available</td>
 </tr>
 </table>
---> [Numbers](numbers)  
---> [Casting](casting)  
---> [Strings](strings)  
---> [Operators](operators)  
---> [Lists](lists)  
+
+--> [Numbers](numbers)
+<table></table>
+
+--> [Casting](casting)
+<table></table>
+
+--> [Strings](strings) 
+<table></table>
+
+--> [Operators](operators)
+<table></table>
+
+--> [Lists](lists)
+<table></table>
+Conversations
+All 194 messages in Trash are selected. ClearConversations
+All 194 messages in Trash are selected. Clear
 --> [Tuples](tuples)  
 --> [Sets](sets)  
 --> [Dictionaries](dictionaries)  
@@ -80,7 +93,8 @@ Subdirectories:
 --> [Iterators](iterators)  
 --> [Modules](modules)  
 --> [Dates](dates)  
---> [Math](math)  
+--> [Math](math)Conversations
+All 194 messages in Trash are selected. Clear  
 --> [JSON](json)  
 --> [RegEx](regex)  
 --> [PIP](pip)  
