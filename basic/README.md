@@ -471,7 +471,6 @@ Subdirectories:
     <th>Link</th>
     <th>Status</th>
   </tr>
-
   <tr>
   <td>#0062</td>
   <td>Create dictionary</td>
@@ -692,6 +691,36 @@ Subdirectories:
     <th>Link</th>
     <th>Status</th>
   </tr>
+  <tr>
+  <td>#0092</td>
+  <td>Create and call function</td>
+  <td><a href="createandcallfunction.py">createandcallfunction.py</a></td>
+  <td>Available</td>
+</tr>
+  <tr>
+  <td>#0093</td>
+  <td>Function parameters</td>
+  <td><a href="functionparameters.py">functionparameters.py</a></td>
+  <td>Available</td>
+</tr>
+  <tr>
+  <td>#0094</td>
+  <td>Default parameter value</td>
+  <td><a href="defaultparametervalue.py">defaultparametervalue.py</a></td>
+  <td>Available</td>
+</tr>
+  <tr>
+  <td>#0095</td>
+  <td>Let function return value</td>
+  <td><a href="letfunctionreturnvalue.py">letfunctionreturnvalue.py</a></td>
+  <td>Available</td>
+</tr>
+  <tr>
+  <td>#0096</td>
+  <td>Recursion</td>
+  <td><a href="recursion.py">recursion.py</a></td>
+  <td>Available</td>
+</tr>
 </table>
 
 --> [Lambda](lambda)
