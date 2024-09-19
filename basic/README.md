@@ -64,43 +64,263 @@ Subdirectories:
 </table>
 
 --> [Numbers](numbers)
-<table></table>
+<table>
+    <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+</table>
 
 --> [Casting](casting)
-<table></table>
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+  </table>
 
 --> [Strings](strings) 
-<table></table>
+<table>
+    <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+</table>
 
 --> [Operators](operators)
-<table></table>
+<table>
+    <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+</table>
 
 --> [Lists](lists)
-<table></table>
-Conversations
-All 194 messages in Trash are selected. ClearConversations
-All 194 messages in Trash are selected. Clear
---> [Tuples](tuples)  
---> [Sets](sets)  
---> [Dictionaries](dictionaries)  
---> [If... Else](if-else)  
---> [While Loop](while-loop)  
---> [For Loop](for-loop)  
---> [Functions](functions)  
---> [Lambda](lambda)  
---> [Arrays](arrays)  
---> [Classes & Objects](classes-and-objects)  
---> [Iterators](iterators)  
---> [Modules](modules)  
---> [Dates](dates)  
---> [Math](math)Conversations
-All 194 messages in Trash are selected. Clear  
---> [JSON](json)  
---> [RegEx](regex)  
---> [PIP](pip)  
---> [Try Except](try-except)  
---> [File Handling](file-handling)  
---> [MySQL](mysql)  
---> [MongoDB](mongodb)  
+<table>
+    <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+</table>
+
+--> [Tuples](tuples)
+<table>
+    <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+</table>
+
+--> [Sets](sets)
+<table>
+    <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+</table>
+
+--> [Dictionaries](dictionaries)
+<table>
+    <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+</table>
+
+--> [If... Else](if-else)
+<table>
+    <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+</table>
+
+--> [While Loop](while-loop)
+<table>
+    <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+</table>
+
+--> [For Loop](for-loop)
+<table>
+    <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+</table>
+
+--> [Functions](functions)
+<table>
+    <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+</table>
+
+--> [Lambda](lambda)
+<table>
+    <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+</table>
+
+--> [Arrays](arrays)
+<table>
+    <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+</table>
+
+--> [Classes & Objects](classes-and-objects)
+<table>
+    <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+</table>
+
+--> [Iterators](iterators)
+<table>
+    <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+</table>
+
+--> [Modules](modules)
+<table>
+    <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+</table>
+
+--> [Dates](dates)
+<table>
+    <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+</table>
+
+--> [Math](math)
+<table>
+    <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+</table>
+
+--> [JSON](json)
+<table>
+    <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+</table>
+
+--> [RegEx](regex)
+<table>
+    <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+</table>
+
+--> [PIP](pip)
+<table>
+    <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+</table>
+
+--> [Try Except](try-except)
+<table>
+    <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+</table>
+
+--> [File Handling](file-handling)
+<table>
+    <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+</table>
+
+--> [MySQL](mysql)
+<table>
+    <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+</table>
+
+--> [MongoDB](mongodb)
+<table>
+    <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Status</th>
+  </tr>
+</table>
 
 ----
