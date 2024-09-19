@@ -7,12 +7,12 @@ file: README.md
 ----
 Subdirectories:
 
---> [Basic](python-codebase/basic)  
---> [OOP](python-codebase/oop)  
---> [Concurrency](python-codebase/concurrency)  
---> [Advanced](python-codebase/advanced)  
---> [GUI](python-codebase/gui)  
---> [Django](python-codebase/django)  
+--> [Basic](basic)  
+--> [OOP](oop)  
+--> [Concurrency](concurrency)  
+--> [Advanced](advanced)  
+--> [GUI](gui)  
+--> [Django](django)  
 
 ----
 ## Description
